@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 ## How to Use
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
+   [git clone https://github.com/aditi-v79/your-repository.git](https://github.com/aditi-v79/Cab-Booking-System.git)
    
 2.Compile the code using your C++ compiler:
    g++ cab_booking_system.cpp -o cab_booking_system
